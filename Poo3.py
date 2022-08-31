@@ -1,3 +1,4 @@
+#Gaston Farias
 from Poo2 import Cuenta, DefinirSaldoInicial, DefinirTitular, Menu
 from Poo1 import Persona
 
