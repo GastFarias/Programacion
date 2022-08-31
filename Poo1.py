@@ -1,3 +1,5 @@
+#Gaston Farias
+
 #Vamos a crear una clase llamada Persona. Sus atributos son: nombre, edad y DNI.
 #Construye los siguientes métodos para la clase:
 # *Un constructor, donde los datos pueden estar vacíos.
